@@ -7,7 +7,7 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <sitemap>
   <loc>https://petrposik.github.io/galleries/rss.xml</loc>
-  <lastmod>2016-09-10T11:53:00Z</lastmod>
+  <lastmod>2016-09-10T12:10:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://petrposik.github.io/rss.xml</loc>
@@ -15,6 +15,6 @@
  </sitemap>
  <sitemap>
   <loc>https://petrposik.github.io/sitemap.xml</loc>
-  <lastmod>2016-09-10T11:53:00Z</lastmod>
+  <lastmod>2016-09-10T12:10:00Z</lastmod>
  </sitemap>
 </sitemapindex>
