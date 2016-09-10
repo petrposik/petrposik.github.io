@@ -7,7 +7,11 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>https://petrposik.github.io/</loc>
-  <lastmod>2016-09-10T11:42:00Z</lastmod>
+  <lastmod>2016-09-10T12:12:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://petrposik.github.io/2016/</loc>
+  <lastmod>2016-09-10T12:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://petrposik.github.io/about/</loc>
@@ -15,7 +19,11 @@
  </url>
  <url>
   <loc>https://petrposik.github.io/archive.html</loc>
-  <lastmod>2016-09-10T12:10:00Z</lastmod>
+  <lastmod>2016-09-10T12:12:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://petrposik.github.io/blog/ipython-example/</loc>
+  <lastmod>2016-09-10T12:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://petrposik.github.io/categories/</loc>
