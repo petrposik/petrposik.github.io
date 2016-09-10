@@ -7,7 +7,11 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>https://example.com/</loc>
-  <lastmod>2016-09-10T11:28:00Z</lastmod>
+  <lastmod>2016-09-10T11:42:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://example.com/about/</loc>
+  <lastmod>2016-09-10T11:42:00Z</lastmod>
  </url>
  <url>
   <loc>https://example.com/archive.html</loc>
