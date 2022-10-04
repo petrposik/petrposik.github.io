@@ -1,4 +1,4 @@
-<img style="float: right;" src="/assets/Posik1.png" alt="Petr Pošík's photo" width="20%"/>
+<img style="float: right; margin: 10pt;" src="/assets/Posik1.png" alt="Petr Pošík's photo" width="20%"/>
 
 # Petr Pošík
 
