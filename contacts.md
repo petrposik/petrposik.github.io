@@ -2,6 +2,8 @@
 title: Contacts
 ---
 
+<img style="float: right;" src="/assets/Posik1.png" alt="Petr Pošík's photo" width="20%"/>
+
 # Petr Pošík
 Lecturer\
 [Department of Cybernetics](https://cyber.felk.cvut.cz) (Deputy head for education)\
